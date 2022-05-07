@@ -7,6 +7,8 @@
                 <div class="title m-b-md">
                     Pizza List
                 </div>
+
+             
                 
                 <!-- @for($i = 0; $i < 5; $i++)
                   <p>the value of i is {{ $i }}</p>
