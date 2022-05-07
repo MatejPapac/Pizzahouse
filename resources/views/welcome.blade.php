@@ -18,9 +18,10 @@
             @endif
 
             <div class="content">
+                <img src ="/img/pizzashop.jpg" alt="pizza house logo">
                 <div class="title m-b-md">
-                    Pizza House<br />
-                    The North's Best Pizzas
+                    
+                    Pizzeria Zvalo se
                 </div>
             </div>
         </div>
