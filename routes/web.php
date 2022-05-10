@@ -21,5 +21,5 @@ Route::get('/', function () {
 Route::get('/pizzas','PizzaController@index');
 
 
-Route::get('/pizzas/{id}','PizzaControleer@show' );
+Route::get('/pizzas/{id}','PizzaController@show' );
 
